@@ -1,0 +1,2247 @@
+.c_e-commerce-page-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1480px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #d8d7ce;
+}
+
+.c_e-commerce-page-rectangle,
+.c_e-commerce-page-rectangle001 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1480px;
+}
+
+.c_e-commerce-page-rectangle001 {
+  max-width: 1478px;
+}
+
+.c_e-commerce-page-text {
+  width: 100%;
+  max-width: 166px;
+  margin-top: 0;
+  min-height: 50px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text001 {
+  color: #000;
+  font-size: 40px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Press Start 2P",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text002 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text003 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text004 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text005 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text006 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text007 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text008 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text009 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle002,
+.c_e-commerce-page-rectangle003 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 100px;
+  border-top: 1px solid #f5f5f5;
+  border-left: 1px solid #f5f5f5;
+  border-right: 1px solid #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.c_e-commerce-page-text010 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text011 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-instance {
+  width: 100%;
+  overflow: hidden;
+  max-width: 11px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_e-commerce-page-text012 {
+  width: 100%;
+  max-width: 153px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text013 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text014 {
+  width: 100%;
+  max-width: 477px;
+  margin-top: 0;
+  min-height: 132px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text015,
+.c_e-commerce-page-text016 {
+  color: #fff;
+  font-size: 40px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text017 {
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-rectangle004 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 736px;
+}
+
+.c_e-commerce-page-text018 {
+  width: 100%;
+  max-width: 317px;
+  margin-top: 0;
+  min-height: 90px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text019 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text020 {
+  width: 100%;
+  max-width: 196px;
+  margin-top: 0;
+  min-height: 80px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text021 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-instance1,
+.c_e-commerce-page-instance2 {
+  width: 100%;
+  max-width: 11px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_e-commerce-page-instance2 {
+  max-width: 240px;
+}
+
+.c_e-commerce-page-rectangle005,
+.c_e-commerce-page-rectangle006 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 164px;
+}
+
+.c_e-commerce-page-rectangle006 {
+  border-top: 1px solid #f5f5f5;
+  border-left: 1px solid #f5f5f5;
+  border-right: 1px solid #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.c_e-commerce-page-text022 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 60px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text023 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-instance3 {
+  width: 100%;
+  max-width: 235px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_e-commerce-page-rectangle007 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 164px;
+  border-top: 1px solid #f5f5f5;
+  border-left: 1px solid #f5f5f5;
+  border-right: 1px solid #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.c_e-commerce-page-text024 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 60px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text025 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle008 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1480px;
+}
+
+.c_e-commerce-page-rectangle009,
+.c_e-commerce-page-rectangle010,
+.c_e-commerce-page-rectangle011,
+.c_e-commerce-page-rectangle012 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 439px;
+}
+
+.c_e-commerce-page-rectangle012 {
+  opacity: .30000001192092896;
+}
+
+.c_e-commerce-page-rectangle013,
+.c_e-commerce-page-rectangle014 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 438px;
+}
+
+.c_e-commerce-page-rectangle014 {
+  max-width: 470px;
+}
+
+.c_e-commerce-page-rectangle015,
+.c_e-commerce-page-rectangle016 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  opacity: .4000000059604645;
+  max-width: 439px;
+}
+
+.c_e-commerce-page-rectangle016 {
+  opacity: .5;
+}
+
+.c_e-commerce-page-rectangle017 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 466.028564453125px;
+  transform: rotate(-109.92deg);
+}
+
+.c_e-commerce-page-text026 {
+  width: 100%;
+  max-width: 389px;
+  margin-top: 0;
+  min-height: 74px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text027 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text028 {
+  width: 100%;
+  max-width: 407px;
+  margin-top: 0;
+  min-height: 90px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text029 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text030 {
+  width: 100%;
+  max-width: 407px;
+  margin-top: 0;
+  min-height: 90px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text031 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle018,
+.c_e-commerce-page-rectangle019,
+.c_e-commerce-page-rectangle020 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 157px;
+  border-top: 1px solid #d8d7ce;
+  border-left: 1px solid #d8d7ce;
+  border-right: 1px solid #d8d7ce;
+  border-bottom: 1px solid #d8d7ce;
+}
+
+.c_e-commerce-page-text032 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 58.447265625px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text033 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text034 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 58.447265625px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text035 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text036 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 58.447265625px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text037 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text038,
+.c_e-commerce-page-text039 {
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text039 {
+  width: 100%;
+  max-width: 569px;
+  min-height: 180px;
+}
+
+.c_e-commerce-page-text040 {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle021,
+.c_e-commerce-page-rectangle022,
+.c_e-commerce-page-rectangle023,
+.c_e-commerce-page-rectangle024,
+.c_e-commerce-page-rectangle025,
+.c_e-commerce-page-rectangle026,
+.c_e-commerce-page-rectangle027,
+.c_e-commerce-page-rectangle028,
+.c_e-commerce-page-rectangle029,
+.c_e-commerce-page-rectangle030,
+.c_e-commerce-page-rectangle031,
+.c_e-commerce-page-rectangle032,
+.c_e-commerce-page-rectangle033 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 254px;
+}
+
+.c_e-commerce-page-rectangle034,
+.c_e-commerce-page-rectangle035 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 254px;
+  max-height: 260.0566101074219px;
+}
+
+.c_e-commerce-page-rectangle036 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 254px;
+}
+
+.c_e-commerce-page-text041 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text042,
+.c_e-commerce-page-text043 {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text043 {
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-rectangle037,
+.c_e-commerce-page-rectangle038 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1390px;
+}
+
+.c_e-commerce-page-rectangle038 {
+  max-width: 254px;
+}
+
+.c_e-commerce-page-text044 {
+  width: 100%;
+  max-width: 339px;
+  margin-top: 0;
+  min-height: 79px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text045 {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text046 {
+  width: 100%;
+  max-width: 350px;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text047 {
+  color: #f0eeec;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle039 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1480px;
+}
+
+.c_e-commerce-page-rectangle040,
+.c_e-commerce-page-rectangle041 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 254px;
+}
+
+.c_e-commerce-page-rectangle042 {
+  transform: rotate(180deg);
+}
+
+.c_e-commerce-page-rectangle042,
+.c_e-commerce-page-rectangle043,
+.c_e-commerce-page-rectangle044 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 254px;
+}
+
+.c_e-commerce-page-rectangle045,
+.c_e-commerce-page-rectangle046 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 50px;
+}
+
+.c_e-commerce-page-rectangle046 {
+  max-width: 594px;
+}
+
+.c_e-commerce-page-rectangle047,
+.c_e-commerce-page-rectangle048,
+.c_e-commerce-page-rectangle049,
+.c_e-commerce-page-rectangle050,
+.c_e-commerce-page-rectangle051,
+.c_e-commerce-page-rectangle052,
+.c_e-commerce-page-rectangle053,
+.c_e-commerce-page-rectangle054,
+.c_e-commerce-page-rectangle055,
+.c_e-commerce-page-rectangle056,
+.c_e-commerce-page-rectangle057,
+.c_e-commerce-page-rectangle058 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
+
+.c_e-commerce-page-text048 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text049 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text050 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text051 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text052 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text053 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text054 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text055 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text056 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text057 {
+  color: #ededed;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text058 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text059 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text060 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text061 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text062 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text063 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text064 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text065 {
+  color: #ededed;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text066 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text067 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text068 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text069 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text070 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text071 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text072 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text073 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text074 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text075 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text076 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text077 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text078 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text079 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text080 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text081 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle059,
+.c_e-commerce-page-rectangle060,
+.c_e-commerce-page-rectangle061,
+.c_e-commerce-page-rectangle062,
+.c_e-commerce-page-rectangle063,
+.c_e-commerce-page-rectangle064,
+.c_e-commerce-page-rectangle065,
+.c_e-commerce-page-rectangle066,
+.c_e-commerce-page-rectangle067,
+.c_e-commerce-page-rectangle068,
+.c_e-commerce-page-rectangle069,
+.c_e-commerce-page-rectangle070,
+.c_e-commerce-page-rectangle071,
+.c_e-commerce-page-rectangle072,
+.c_e-commerce-page-rectangle073,
+.c_e-commerce-page-rectangle074,
+.c_e-commerce-page-rectangle075,
+.c_e-commerce-page-rectangle076,
+.c_e-commerce-page-rectangle077,
+.c_e-commerce-page-rectangle078,
+.c_e-commerce-page-rectangle079,
+.c_e-commerce-page-rectangle080,
+.c_e-commerce-page-rectangle081,
+.c_e-commerce-page-rectangle082,
+.c_e-commerce-page-rectangle083,
+.c_e-commerce-page-rectangle084,
+.c_e-commerce-page-rectangle085,
+.c_e-commerce-page-rectangle086,
+.c_e-commerce-page-rectangle087,
+.c_e-commerce-page-rectangle088,
+.c_e-commerce-page-rectangle089,
+.c_e-commerce-page-rectangle090,
+.c_e-commerce-page-rectangle091,
+.c_e-commerce-page-rectangle092,
+.c_e-commerce-page-rectangle093,
+.c_e-commerce-page-rectangle094,
+.c_e-commerce-page-rectangle095,
+.c_e-commerce-page-rectangle096,
+.c_e-commerce-page-rectangle097,
+.c_e-commerce-page-rectangle098,
+.c_e-commerce-page-rectangle099,
+.c_e-commerce-page-rectangle100,
+.c_e-commerce-page-rectangle101,
+.c_e-commerce-page-rectangle102,
+.c_e-commerce-page-rectangle103,
+.c_e-commerce-page-rectangle104,
+.c_e-commerce-page-rectangle105,
+.c_e-commerce-page-rectangle106,
+.c_e-commerce-page-rectangle107,
+.c_e-commerce-page-rectangle108,
+.c_e-commerce-page-rectangle109,
+.c_e-commerce-page-rectangle110,
+.c_e-commerce-page-rectangle111,
+.c_e-commerce-page-rectangle112,
+.c_e-commerce-page-rectangle113,
+.c_e-commerce-page-rectangle114,
+.c_e-commerce-page-rectangle115 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
+
+.c_e-commerce-page-ellipse,
+.c_e-commerce-page-ellipse01,
+.c_e-commerce-page-ellipse02,
+.c_e-commerce-page-ellipse03,
+.c_e-commerce-page-ellipse04,
+.c_e-commerce-page-ellipse05,
+.c_e-commerce-page-ellipse06,
+.c_e-commerce-page-ellipse07,
+.c_e-commerce-page-ellipse08,
+.c_e-commerce-page-ellipse09,
+.c_e-commerce-page-ellipse10,
+.c_e-commerce-page-ellipse11,
+.c_e-commerce-page-ellipse12,
+.c_e-commerce-page-ellipse13 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 15px;
+  border-radius: 100%;
+}
+
+.c_e-commerce-page-text082 {
+  width: 100%;
+  max-width: 53px;
+  margin-top: 0;
+  min-height: 31px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text083 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text084 {
+  width: 100%;
+  max-width: 53px;
+  margin-top: 0;
+  min-height: 31px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text085 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text086 {
+  width: 100%;
+  max-width: 53px;
+  margin-top: 0;
+  min-height: 31px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text087 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle116 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 50px;
+}
+
+.c_e-commerce-page-text088 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text089,
+.c_e-commerce-page-text090 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text090 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-rectangle117 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 50px;
+}
+
+.c_e-commerce-page-text091 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text092,
+.c_e-commerce-page-text093 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text093 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text094 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text095,
+.c_e-commerce-page-text096 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text096 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text097 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text098,
+.c_e-commerce-page-text099 {
+  margin-top: 0;
+  text-align: justified;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text099 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text100 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text101,
+.c_e-commerce-page-text102 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text102 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-rectangle118 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 50px;
+}
+
+.c_e-commerce-page-text103 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text104,
+.c_e-commerce-page-text105 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text105 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text106 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text107,
+.c_e-commerce-page-text108 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text108 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text109 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text110,
+.c_e-commerce-page-text111 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text111 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text112 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text113,
+.c_e-commerce-page-text114 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text114 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-text115 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text116,
+.c_e-commerce-page-text117 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text117 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-rectangle119 {
+  max-height: 11px;
+}
+
+.c_e-commerce-page-rectangle119,
+.c_e-commerce-page-rectangle120,
+.c_e-commerce-page-rectangle121,
+.c_e-commerce-page-rectangle122 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
+
+.c_e-commerce-page-rectangle123 {
+  max-height: 11px;
+}
+
+.c_e-commerce-page-rectangle123,
+.c_e-commerce-page-rectangle124 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
+
+.c_e-commerce-page-text118 {
+  width: 100%;
+  max-width: 324px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text119,
+.c_e-commerce-page-text120 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text120 {
+  font-weight: 400;
+}
+
+.c_e-commerce-page-rectangle125 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 100px;
+}
+
+.c_e-commerce-page-text121 {
+  width: 100%;
+  max-width: 142px;
+  margin-top: 0;
+  min-height: 103px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text122 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle126 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
+
+.c_e-commerce-page-text123 {
+  width: 100%;
+  max-width: 574px;
+  margin-top: 0;
+  min-height: 409px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text124,
+.c_e-commerce-page-text125,
+.c_e-commerce-page-text126,
+.c_e-commerce-page-text127 {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text125,
+.c_e-commerce-page-text126,
+.c_e-commerce-page-text127 {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.c_e-commerce-page-text126,
+.c_e-commerce-page-text127 {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.c_e-commerce-page-text127 {
+  font-size: 20px;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+}
+
+.c_e-commerce-page-rectangle127 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 157px;
+  border-top: 1px solid #d8d7ce;
+  border-left: 1px solid #d8d7ce;
+  border-right: 1px solid #d8d7ce;
+  border-bottom: 1px solid #d8d7ce;
+}
+
+.c_e-commerce-page-text128 {
+  width: 100%;
+  max-width: 192px;
+  margin-top: 0;
+  min-height: 58.447265625px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text129 {
+  color: #000;
+  font-size: 13px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle128 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1480px;
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
+.c_e-commerce-page-text130 {
+  width: 100%;
+  max-width: 847px;
+  margin-top: 0;
+  min-height: 87px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text131 {
+  color: #310e32;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text132 {
+  width: 100%;
+  max-width: 402px;
+  margin-top: 0;
+  min-height: 302px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text133 {
+  color: #200e32;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text134 {
+  width: 100%;
+  max-width: 166px;
+  margin-top: 0;
+  min-height: 50px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text135 {
+  color: #000;
+  font-size: 40px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Press Start 2P",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text136 {
+  width: 100%;
+  max-width: 456px;
+  margin-top: 0;
+  min-height: 261px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text137,
+.c_e-commerce-page-text138,
+.c_e-commerce-page-text139,
+.c_e-commerce-page-text140,
+.c_e-commerce-page-text141,
+.c_e-commerce-page-text142 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text138,
+.c_e-commerce-page-text139,
+.c_e-commerce-page-text140,
+.c_e-commerce-page-text141,
+.c_e-commerce-page-text142 {
+  color: #f5f5f5;
+  font-weight: 500;
+}
+
+.c_e-commerce-page-text142 {
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text143 {
+  width: 100%;
+  max-width: 456px;
+  margin-top: 0;
+  min-height: 261px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text144,
+.c_e-commerce-page-text145,
+.c_e-commerce-page-text146,
+.c_e-commerce-page-text147,
+.c_e-commerce-page-text148 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text145,
+.c_e-commerce-page-text146,
+.c_e-commerce-page-text147,
+.c_e-commerce-page-text148 {
+  color: #f5f5f5;
+  font-weight: 500;
+}
+
+.c_e-commerce-page-text148 {
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text149 {
+  width: 100%;
+  max-width: 142px;
+  margin-top: 0;
+  min-height: 69px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text150 {
+  color: #000;
+  font-size: 15px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text151 {
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-rectangle129 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 188px;
+  border-top: 1px solid #d8d7ce;
+  border-left: 1px solid #d8d7ce;
+  border-right: 1px solid #d8d7ce;
+  border-bottom: 1px solid #d8d7ce;
+}
+
+.c_e-commerce-page-text152 {
+  width: 100%;
+  max-width: 172px;
+  margin-top: 0;
+  min-height: 76px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text153 {
+  color: #d8d7ce;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle130 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 128px;
+}
+
+.c_e-commerce-page-text154 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text155 {
+  color: #fff;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle131 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1480px;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.c_e-commerce-page-text156 {
+  width: 100%;
+  max-width: 421px;
+  margin-top: 0;
+  min-height: 116px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text157 {
+  color: #200e32;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle132,
+.c_e-commerce-page-rectangle133,
+.c_e-commerce-page-rectangle134,
+.c_e-commerce-page-rectangle135,
+.c_e-commerce-page-rectangle136 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 20px;
+}
+
+.c_e-commerce-page-text158 {
+  width: 100%;
+  max-width: 260px;
+  margin-top: 0;
+  min-height: 106px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text159 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text160 {
+  width: 100%;
+  max-width: 245px;
+  margin-top: 0;
+  min-height: 70px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text161 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text162 {
+  width: 100%;
+  max-width: 230px;
+  margin-top: 0;
+  min-height: 88px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text163 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-text164 {
+  width: 100%;
+  max-width: 268px;
+  margin-top: 0;
+  min-height: 52px;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.c_e-commerce-page-text165 {
+  color: #000;
+  font-size: 11px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: justified;
+  font-family: "Inter",sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_e-commerce-page-rectangle137,
+.c_e-commerce-page-rectangle138,
+.c_e-commerce-page-rectangle139,
+.c_e-commerce-page-rectangle140,
+.c_e-commerce-page-rectangle141,
+.c_e-commerce-page-rectangle142 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 11px;
+}
